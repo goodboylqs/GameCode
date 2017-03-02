@@ -1,4 +1,0 @@
-﻿  Windows_Mouse_Message_Demo.cpp
-d:\game\gamechapter7\gamechapter7_mousemessage\windows_mouse_message_demo.cpp(245): warning C4101: “pt”: 未引用的局部变量
-  GameChapter7_MouseMessage.vcxproj -> D:\Game\GameChapter7\x64\Debug\GameChapter7_MouseMessage.exe
-  GameChapter7_MouseMessage.vcxproj -> D:\Game\GameChapter7\x64\Debug\GameChapter7_MouseMessage.pdb (Full PDB)
